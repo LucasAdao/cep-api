@@ -1,4 +1,4 @@
-CepApi/obj
-CepApi/CepApi.csproj.user
-CepApi/bin	
-CepApi/.github
+.vs/
+bin/
+obj/
+CepApi.csproj.user
